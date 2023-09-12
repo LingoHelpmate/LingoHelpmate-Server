@@ -6,8 +6,8 @@ addAssignees: author
 
 # A list of reviewers to be added to PRs (GitHub user  name)
 reviewers:
-  - kkl4846
-  - separk314
+#   - kkl4846
+#   - separk314
   
 # A number of reviewers added to the PR
 # Set 0 to add all the reviewers (default: 0)
